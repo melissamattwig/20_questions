@@ -1,9 +1,9 @@
 #
-# Name: Melissa Mattwig
-# uniquename: mmattwig
+# Creator: Melissa Mattwig
+# Created in Fall 2022 for SI 507 (Intermediate Python) at the University of Michigan
 #
 
-from Proj2_tree import printTree
+from twenty_questions_tree import printTree
 
 #
 # The following two trees are useful for testing.
